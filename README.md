@@ -1,20 +1,21 @@
-# Hi there, my name is **Nikita Kanyuka**! 👋
+# Hi there, my name is **Mykyta Kanyuka**! 👋
 ## About me
-I'm a beginner *Front-end developer* from Kyiv.  <br/>
-Currently I'm studying at Kyiv Polytechnic Institute on **computer science** specialty. <br/>
-Every day I'm trying to learn something new or working on my projects to practice my skills.
+I'm a *Full-stack developer* from Kyiv with 3+ years of experience.  <br/>
+I have a Bachelor of Science in **computer engineering** and currently, I'm continuing to study to get my Master's degree at Kyiv Polytechnic Institute in the same specialty. <br/>
+In my studies and at my work I'm always trying to delve into the details and strive to perfection. I'm always eager to learn something new and improve my existing knowledge.
 
 <!-- ### Check my website: [site](url) -->
 
-### Languages and Technologies
+<!-- ### Languages and Technologies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python) -->
 
-### ✉️ Mail me: nik2142ua@gmail.com
+### ✉️ Mail me: kanyuka.work@gmail.com
 ### 🌐 Telegram: [@niksonax](https://t.me/niksonax)
 
 #

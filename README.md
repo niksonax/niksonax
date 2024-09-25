@@ -1,8 +1,22 @@
 # Hi there, my name is **Mykyta Kanyuka**! 👋
-## About me
-I'm a *Full-stack developer* from Kyiv with 3+ years of experience.  <br/>
-I have a Bachelor of Science in **computer engineering** and currently, I'm continuing to study to get my Master's degree at Kyiv Polytechnic Institute in the same specialty. <br/>
-In my studies and at my work I'm always trying to delve into the details and strive to perfection. I'm always eager to learn something new and improve my existing knowledge.
+
+👨‍💻 I'm a full-stack software engineer with 3 years of experience. I have worked with various projects, technologies, and teams (ranging from 2 to 10+ people).
+
+🛠 Main technologies I have worked with:
+- JavaScript, TypeScript, Python
+- React, Redux (RTK), React Native
+- Node.js, Express.js, Nest.js
+- PostgreSQL, MongoDB, DynamoDB
+- AWS (EC2, S3, Lambdas, IoT, in particular)
+- MQTT, RabbitMQ
+- Git (GitHub, GitLab, Bitbucket) 
+- Docker, Jest, Jira, Trello
+
+📚 My knowledge includes OOP principles, REST, AJAX, and Web API.
+
+🎓 Master of Computer Engineering (studied at Kyiv Polytechnic Institute).
+
+💡 I possess the qualities of being self-motivated, a quick learner, organized, a keen eye for detail, and a systematic approach to problem-solving, ensuring thorough analysis and optimal decision-making.
 
 <!-- ### Check my website: [site](url) -->
 
